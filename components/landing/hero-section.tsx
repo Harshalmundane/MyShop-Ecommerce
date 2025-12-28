@@ -34,7 +34,7 @@ export default function HeroSection() {
 
             <div className="relative h-96 md:h-full rounded-2xl overflow-hidden">
               <Image
-                src="/download.jpg"
+                src="/5860.jpg"
                 alt="Hero Image"
                 width={700}
                 height={700}
