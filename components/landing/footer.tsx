@@ -14,7 +14,7 @@ export default function Footer() {
               <div className="w-8 h-8 bg-primary-foreground rounded-lg flex items-center justify-center">
                 <span className="text-primary font-bold">S</span>
               </div>
-              <span className="font-bold text-lg">ShopHub</span>
+              <span className="font-bold text-lg">MyShop</span>
             </div>
             <p className="text-sm opacity-90">
               Your trusted destination for quality products and exceptional shopping experience.
@@ -81,22 +81,22 @@ export default function Footer() {
             <div className="space-y-3 text-sm">
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>7709490964</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>support@shophub.com</span>
+                <span>support@MyShop.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <MapPin className="w-4 h-4" />
-                <span>123 Business Ave, City, State</span>
+                <span>Nagpur, Maharashtra, 441110</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-sm opacity-90">
-          <p>&copy; {currentYear} ShopHub. All rights reserved. | Made with care for you</p>
+          <p>&copy; {currentYear} MyShop. All rights reserved. | Made with care for you</p>
         </div>
       </div>
     </footer>
